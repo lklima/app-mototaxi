@@ -3,4 +3,4 @@
 App para solicitar Mototáxi estilo Uber desenvolvidas com as tecnologias React-Native + Firebase.
 
 Play Store: https://play.google.com/store/apps/details?id=com.voudemoto.riderapp
-Apple Store: https://apps.apple.com/us/app/mototaxi-araguaina/id1503099819?l=pt&ls=1
+Apple Store: https://apps.apple.com/br/app/mototaxi-araguaina/id1503099819
